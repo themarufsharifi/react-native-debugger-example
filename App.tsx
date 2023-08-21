@@ -4,7 +4,7 @@
  *
  * @format
  */
-
+import 'react-native-devsettings/withAsyncStorage';
 import React from 'react';
 import type {PropsWithChildren} from 'react';
 import {
